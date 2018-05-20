@@ -1,0 +1,13 @@
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\bin\Debug\Odev(3).exe.config
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\bin\Debug\Odev(3).exe
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\bin\Debug\Odev(3).pdb
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\obj\Debug\Odev(3).csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\obj\Debug\Odev(3).exe
+c:\users\hp\Desktop\visuol stdio\Odev(3)\Odev(3)\obj\Debug\Odev(3).pdb
+D:\GitHupADD\Odev(3)\Odev(3)\bin\Debug\Odev(3).exe.config
+D:\GitHupADD\Odev(3)\Odev(3)\bin\Debug\Odev(3).exe
+D:\GitHupADD\Odev(3)\Odev(3)\bin\Debug\Odev(3).pdb
+D:\GitHupADD\Odev(3)\Odev(3)\obj\Debug\Odev(3).csprojAssemblyReference.cache
+D:\GitHupADD\Odev(3)\Odev(3)\obj\Debug\Odev(3).csproj.CoreCompileInputs.cache
+D:\GitHupADD\Odev(3)\Odev(3)\obj\Debug\Odev(3).exe
+D:\GitHupADD\Odev(3)\Odev(3)\obj\Debug\Odev(3).pdb

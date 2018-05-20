@@ -1,0 +1,7 @@
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\bin\Debug\Odev(3).exe.config
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\bin\Debug\Odev(3).exe
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\bin\Debug\Odev(3).pdb
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\obj\Debug\Eposta Kontrol Kayit.csprojAssemblyReference.cache
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\obj\Debug\Eposta Kontrol Kayit.csproj.CoreCompileInputs.cache
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\obj\Debug\Odev(3).exe
+D:\GitHupADD\Eposta Kontrol Kayit\Eposta Kontrol Kayit\obj\Debug\Odev(3).pdb
